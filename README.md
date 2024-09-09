@@ -6,11 +6,18 @@ There´s a $6 plan to download all recipes you want, create and save all your ow
 Used technologies and architechtures:
 
 -Clean architechture
+
 -MVVM
+
 -Room DB
+
 -API Rest consume w/ Retrofit
+
 -Coroutines and threads
+
 -Views in Jetpack Compose (100%)
+
 -Dagger Hilt (DI)
+
 -Google Play Billing
 
